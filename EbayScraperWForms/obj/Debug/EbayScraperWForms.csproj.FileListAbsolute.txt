@@ -1,0 +1,17 @@
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\EbayScraperWForms.exe.config
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\EbayScraperWForms.exe
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\EbayScraperWForms.pdb
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\FSharp.Core.dll
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\ScrapySharp.Core.dll
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\ScrapySharpAsync.dll
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\FSharp.Core.xml
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.csprojResolveAssemblyReference.cache
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.Form1.resources
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.Properties.Resources.resources
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.csproj.GenerateResource.Cache
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.csproj.CoreCompileInputs.cache
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.exe
+C:\Users\LT5244\source\repos\EbayScraperWForms\EbayScraperWForms\obj\Debug\EbayScraperWForms.pdb
