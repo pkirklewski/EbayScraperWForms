@@ -1,0 +1,5 @@
+Z:\VMExpertise\SOAP\EbayScraperWForms\Helpers\bin\Debug\Helpers.dll
+Z:\VMExpertise\SOAP\EbayScraperWForms\Helpers\bin\Debug\Helpers.pdb
+Z:\VMExpertise\SOAP\EbayScraperWForms\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+Z:\VMExpertise\SOAP\EbayScraperWForms\Helpers\obj\Debug\Helpers.dll
+Z:\VMExpertise\SOAP\EbayScraperWForms\Helpers\obj\Debug\Helpers.pdb

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbayScraperWForms", "EbayScraperWForms\EbayScraperWForms.csproj", "{FFFE6477-90AE-49B2-92A6-871DBE9919ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{61235AB4-6CBE-49CA-A31C-051294A953D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FFFE6477-90AE-49B2-92A6-871DBE9919ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFE6477-90AE-49B2-92A6-871DBE9919ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFFE6477-90AE-49B2-92A6-871DBE9919ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61235AB4-6CBE-49CA-A31C-051294A953D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61235AB4-6CBE-49CA-A31C-051294A953D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61235AB4-6CBE-49CA-A31C-051294A953D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61235AB4-6CBE-49CA-A31C-051294A953D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
